@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360154241344",
+    "project_id": "db-lemari-lama",
+    "storage_bucket": "db-lemari-lama.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360154241344:android:326ce9d40e95d3d07b42a5",
+        "android_client_info": {
+          "package_name": "com.example.lemari_lama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJEXJ2LI4sjT60aBM-A3yHhBue58ZUwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
